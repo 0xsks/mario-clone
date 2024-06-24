@@ -1,5 +1,6 @@
 
-#Milady
+Milady Flipper
+===============================
 Super Milady is pure and silly and beautiful and forever
 
 ##Game Flow
